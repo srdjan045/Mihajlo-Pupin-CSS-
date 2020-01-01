@@ -1,0 +1,26 @@
+body {
+	width: 1000px;
+	margin: 50px auto;
+	background: #64f5f5;
+	font-family: "Times New Roman", Arial, Serif, sans-serif;
+}
+
+#nav {
+	float: left;
+	display: inline-block;
+	width: 200px;
+	line-height: 25px;
+}
+
+#section {
+	float: right;
+	display: inline-block;
+	width: 400px;
+	text-align: middle;
+	border-left: 3px solid;
+	padding-left: 200px;
+}
+
+ul {
+	list-style-type: none;
+}
